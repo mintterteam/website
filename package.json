@@ -16,7 +16,7 @@
     "husky": "^4.3.0",
     "lint-staged": "^10.4.0",
     "mdx-prism": "^0.3.1",
-    "next": "9.5.4",
+    "next": "11.1.0",
     "next-mdx-enhanced": "^4.0.0",
     "next-seo": "^4.11.0",
     "next-sitemap": "^1.2.4",
