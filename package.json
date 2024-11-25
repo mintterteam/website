@@ -13,7 +13,7 @@
   "dependencies": {
     "@47ng/check-env": "2.0.1",
     "dotenv-flow": "3.2.0",
-    "husky": "4.3.0",
+    "husky": "4.3.8",
     "lint-staged": "10.4.0",
     "mdx-prism": "0.3.1",
     "next": "9.5.4",
